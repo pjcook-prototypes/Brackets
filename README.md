@@ -25,3 +25,8 @@ Write a function which,  given an array of strings with some brackets wrapping d
 ["j", "e", "(", "l", "l", ")", "y"] => ["j",  "e", "ll", "y"]
 ["(", "s", "h", ")", "i", "(", "p", "p", ")", "i", "(", "n", "g", ")"] => ["sh", "i", "pp", "i", "ng"]
 ["(", "b", "l", ")", "a", "(", "n", "k", ")"] => ["bl", "a", "nk"]
+
+# Part 2 - Stretch
+
+*Given* ["a", "(", "s", "h", "(", "e", "s", ")", "i", "n", ")", "t", "h", "e", "(", "w", "i", "n", "d", ")"]
+*Return* ["a", "sh", "es", "in", "t", "h", "e", "wind"]
